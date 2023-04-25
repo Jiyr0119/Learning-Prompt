@@ -29,13 +29,13 @@ export default function HeroSection() {
             </Link>
           </div>
         </div>
-        <div className="flex-1 xl:flex-none">
+        {/* <div className="flex-1 xl:flex-none">
           <img
             src={`/static/landing-page/hello-world-${colorMode}.png`}
             alt="Preview of prompt"
             width={640}
           />
-        </div>
+        </div> */}
       </div>
     </section>
   );
