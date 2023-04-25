@@ -45,7 +45,7 @@ const sidebars = {
         },
       ],
     },
-    '🥰 感谢',
+    // '🥰 感谢',
   ],
   chatGPT: [
     'chatgpt-learning-path',

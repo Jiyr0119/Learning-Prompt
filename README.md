@@ -31,7 +31,7 @@
 
 另外，我一直认为最好的学习方法，就是实践，所以我建议你使用 ChatGPT 或者 Midjourney 上 运行一下教程里的案例。这样能够记得更牢靠一些。
 
-最后，在读文档的过程中，你会看到以下几个 emoji：
+<!-- 最后，在读文档的过程中，你会看到以下几个 emoji：
 
 - 🚧 ：标有这个 emoji 代表内容，我还需要进一步去完善补充，但并不影响你的阅读。我会在后续迭代补充。
 - 🆘 ：这个代表我需要各位的帮助，比如有可能是希望大家给我一些某场景的 prompt 案例等。如果你有想法，不妨通过 Issue 或[表单](https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg)的方式，向我反馈。
@@ -101,4 +101,4 @@ ChatGPT:
 Midjourney:
 1. [Midjourney Guide](https://docs.midjourney.com)
 2. [Midlibrary](https://www.midlibrary.io/)
-3. [Aituts](https://aituts.com/)
+3. [Aituts](https://aituts.com/) -->
